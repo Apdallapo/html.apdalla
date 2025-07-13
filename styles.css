@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(113, 94, 113);
+    line-break: strict;
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    padding: 2%;
+    margin: 0%;
+}
+
+p{ 
+ text-align: left;
+    
+    color: hsl(0, 8%, 3%);
+    padding:0px;
+    margin: 0%;  
+    letter-spacing: 32%;
+    white-space: 2%;
+font-weight: bold;
+}
+.green{
+    font-display:block ;
+    font-family: 'Courier New', Courier, monospace;
+    color: lime;
+    font-weight: bold;
+    letter-spacing: normal;
+    white-space: 1px;
+}
+.blue{
+    font-display:block ;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, fantasy;
+    color: rgb(1, 1, 7);
+}
+.red{
+    font-display:block ;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, fantasy;
+        color: #e40c0cf5;
+    }

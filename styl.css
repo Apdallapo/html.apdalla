@@ -1,0 +1,75 @@
+*{
+    margin: 0%; 
+    padding: 0%;
+    text-align: center;
+    background-image: url(./background.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #c66f05;
+}
+
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:lab(9.08% 3.49 1.31 / 0.968);
+    padding: 2%;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    opacity: 0.8;
+    border: 1px solid #6d0aa6;
+    padding: 2%;
+
+}
+.buur{
+    font-size: 15px;
+    color: rgb(30, 95, 105);
+    font-family: fantasy;
+    text-transform: capitalize;
+}
+h3{
+    color: rgb(27, 28, 28);
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: blanchedalmond;
+    padding: 2%;
+    margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+ul{
+    text-align: center;
+    text-transform:capitalize;
+    letter-spacing: 2%;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin: 0%;
+padding: 2%;
+}
+.gg li{
+    text-decoration: none;
+    list-style-type: none;
+    color: hsl(0, 83%, 46%);
+}
+li{
+    list-style-type: none;
+}
+.buub{
+    color: blue;
+    margin: 70px;
+    padding-right: 2%;
+
+}
+.buun{
+    color: blue;
+    margin: 70px;
+    padding-right: 2%;
+
+}
